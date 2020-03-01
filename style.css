@@ -1,0 +1,29 @@
+table,td,caption {
+	border: 1px solid black;
+}
+
+caption { 
+	font-style: oblique; 
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+	
+}
+
+td {  background-color: cyan; }
+
+h1 { color: blue; }
+
+h2 { color: black;}
+
+
+table {
+	width: 100%;
+	border: 5px solid lime;
+	
+ }
+ td, tr {
+	width: 25%;
+	text-align: left;
+	vertical-align: top;
+	border: 3px solid red;
+	font-family: 'Courier New', Courier, monospace;
+ }
